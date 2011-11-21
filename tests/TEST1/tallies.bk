@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<tallies>
+
+  <mesh id="1">
+    <type>rectangular</type>
+    <origin>-10 -10 -00</origin>
+    <dimension>1 1 5</dimension>
+    <width>20 20 20</width>
+  </mesh>
+    
+
+  <tally id="1">
+    <filters>
+      <cell>100</cell>
+      <mesh>1</mesh>
+    </filters>
+
+    <macros>total scatter nu-scatter absorption fission nu-fission</macros>
+  </tally>
+
+  <tally id="2">
+    <filters>
+      <cell>100</cell>
+      <energy>0.0 20.0</energy>
+    </filters>
+
+    <macros>total scatter nu-scatter absorption fission nu-fission</macros>
+  </tally>
+
+  <tally id="3">
+    <filters>
+      <cell>100</cell>
+      <energy>0.0 20.0</energy>
+      <energyout>0.0 20.0</energyout>
+    </filters>
+
+    <macros>scatter nu-scatter scatter-1 scatter-2 scatter-3</macros>
+  </tally>
+
+</tallies>

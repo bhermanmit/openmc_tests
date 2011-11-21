@@ -1,0 +1,180 @@
+
+ ============================>     TALLY 1     <============================
+
+ Mesh Index (1, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Flux                        0.0            +/- 0.0
+     Total Reaction Rate         0.0            +/- 0.0
+     First Scattering Moment     0.0            +/- 0.0
+   Incoming Energy [6.25000E-07, 0.500000)
+     Flux                        10.8160        +/- 3.97104E-02
+     Total Reaction Rate         1.26074        +/- 4.75079E-03
+     First Scattering Moment     0.235012       +/- 1.21683E-03
+   Incoming Energy [0.500000, 20.0000)
+     Flux                        25.5034        +/- 4.40270E-02
+     Total Reaction Rate         2.12279        +/- 3.67202E-03
+     First Scattering Moment     0.726178       +/- 1.98706E-03
+ Mesh Index (2, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Flux                        0.0            +/- 0.0
+     Total Reaction Rate         0.0            +/- 0.0
+     First Scattering Moment     0.0            +/- 0.0
+   Incoming Energy [6.25000E-07, 0.500000)
+     Flux                        0.0            +/- 0.0
+     Total Reaction Rate         0.0            +/- 0.0
+     First Scattering Moment     0.0            +/- 0.0
+   Incoming Energy [0.500000, 20.0000)
+     Flux                        0.0            +/- 0.0
+     Total Reaction Rate         0.0            +/- 0.0
+     First Scattering Moment     0.0            +/- 0.0
+ Mesh Index (3, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Flux                        0.0            +/- 0.0
+     Total Reaction Rate         0.0            +/- 0.0
+     First Scattering Moment     0.0            +/- 0.0
+   Incoming Energy [6.25000E-07, 0.500000)
+     Flux                        0.0            +/- 0.0
+     Total Reaction Rate         0.0            +/- 0.0
+     First Scattering Moment     0.0            +/- 0.0
+   Incoming Energy [0.500000, 20.0000)
+     Flux                        0.0            +/- 0.0
+     Total Reaction Rate         0.0            +/- 0.0
+     First Scattering Moment     0.0            +/- 0.0
+
+ ============================>     TALLY 2     <============================
+
+ Mesh Index (1, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+   Incoming Energy [6.25000E-07, 0.500000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  1.05545        +/- 4.41051E-03
+       Nu-Fission Rate             5.76333E-02    +/- 5.12380E-04
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.419630       +/- 1.60506E-03
+   Incoming Energy [0.500000, 20.0000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.175553       +/- 6.05253E-04
+       Nu-Fission Rate             0.154318       +/- 8.71312E-04
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  1.50075        +/- 3.48960E-03
+       Nu-Fission Rate             1.13780        +/- 2.34614E-03
+ Mesh Index (2, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+   Incoming Energy [6.25000E-07, 0.500000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+   Incoming Energy [0.500000, 20.0000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (3, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+   Incoming Energy [6.25000E-07, 0.500000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+   Incoming Energy [0.500000, 20.0000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.0            +/- 0.0
+
+ ============================>     TALLY 3     <============================
+
+ Mesh Index (1, 1, 1)
+   Outgoing Current to Left       0.218128       +/- 4.32106E-02
+   Incoming Current from Left     0.0            +/- 0.0
+   Incoming Current from Right    0.0            +/- 0.0
+   Outgoing Current to Right      0.216440       +/- 4.32980E-02
+   Outgoing Current to Back       0.0            +/- 0.0
+   Incoming Current from Back     0.0            +/- 0.0
+   Incoming Current from Front    0.0            +/- 0.0
+   Outgoing Current to Front      0.0            +/- 0.0
+   Outgoing Current to Bottom     0.0            +/- 0.0
+   Incoming Current from Bottom   0.0            +/- 0.0
+   Incoming Current from Top      0.0            +/- 0.0
+   Outgoing Current to Top        0.0            +/- 0.0
+ Mesh Index (2, 1, 1)
+   Outgoing Current to Left       0.0            +/- 0.0
+   Incoming Current from Left     0.216440       +/- 4.32980E-02
+   Incoming Current from Right    0.0            +/- 0.0
+   Outgoing Current to Right      0.0            +/- 0.0
+   Outgoing Current to Back       0.0            +/- 0.0
+   Incoming Current from Back     0.0            +/- 0.0
+   Incoming Current from Front    0.0            +/- 0.0
+   Outgoing Current to Front      0.0            +/- 0.0
+   Outgoing Current to Bottom     0.0            +/- 0.0
+   Incoming Current from Bottom   0.0            +/- 0.0
+   Incoming Current from Top      0.0            +/- 0.0
+   Outgoing Current to Top        0.0            +/- 0.0
+ Mesh Index (3, 1, 1)
+   Outgoing Current to Left       0.0            +/- 0.0
+   Incoming Current from Left     0.0            +/- 0.0
+   Incoming Current from Right    0.0            +/- 0.0
+   Outgoing Current to Right      0.0            +/- 0.0
+   Outgoing Current to Back       0.0            +/- 0.0
+   Incoming Current from Back     0.0            +/- 0.0
+   Incoming Current from Front    0.0            +/- 0.0
+   Outgoing Current to Front      0.0            +/- 0.0
+   Outgoing Current to Bottom     0.0            +/- 0.0
+   Incoming Current from Bottom   0.0            +/- 0.0
+   Incoming Current from Top      0.0            +/- 0.0
+   Outgoing Current to Top        0.0            +/- 0.0

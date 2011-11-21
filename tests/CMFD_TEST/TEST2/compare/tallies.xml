@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<tallies>
+
+  <tally id="1">
+    <filters>
+      <mesh>1</mesh>
+      <energy>0.0 0.625e-6 500e-3 20.0</energy>
+    </filters>
+    <macros>flux total scatter-1</macros>
+  </tally>
+
+  <tally id="2">
+    <filters>
+      <mesh>1</mesh>
+      <energy>0.0 0.625e-6 500e-3 20.0</energy>
+      <energyout>0.0 0.625e-6 500e-3 20.0</energyout>
+    </filters>
+    <macros>nu-scatter nu-fission</macros>
+  </tally>
+
+  <tally id="3">
+    <filters>
+      <mesh>1</mesh>
+    </filters>
+    <macros>current</macros>
+  </tally>
+
+  <mesh id="1">
+    <type> rectangular </type>
+    <origin> -25 -10 -10 </origin>
+    <dimension> 1 1 1 </dimension>
+    <width> 50.0 20.0 20.0 </width>
+
+  </mesh>
+
+
+</tallies>

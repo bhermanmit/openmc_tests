@@ -1,0 +1,29 @@
+
+ ============================>     TALLY 1     <============================
+
+ Mesh Index (1, 1, 1)
+   Flux                        36.2615        +/- 7.46789E-02
+   Total Reaction Rate         3.37680        +/- 7.64799E-03
+   First Scattering Moment     0.961744       +/- 3.27898E-03
+
+ ============================>     TALLY 2     <============================
+
+ Mesh Index (1, 1, 1)
+   Scattering Production Rate  2.72609        +/- 7.60212E-03
+   Nu-Fission Rate             1.76345        +/- 3.49876E-03
+
+ ============================>     TALLY 3     <============================
+
+ Mesh Index (1, 1, 1)
+   Outgoing Current to Left       0.262245       +/- 8.85054E-02
+   Incoming Current from Left     0.0            +/- 0.0
+   Incoming Current from Right    0.0            +/- 0.0
+   Outgoing Current to Right      0.261905       +/- 8.61511E-02
+   Outgoing Current to Back       0.0            +/- 0.0
+   Incoming Current from Back     0.0            +/- 0.0
+   Incoming Current from Front    0.0            +/- 0.0
+   Outgoing Current to Front      0.0            +/- 0.0
+   Outgoing Current to Bottom     0.0            +/- 0.0
+   Incoming Current from Bottom   0.0            +/- 0.0
+   Incoming Current from Top      0.0            +/- 0.0
+   Outgoing Current to Top        0.0            +/- 0.0

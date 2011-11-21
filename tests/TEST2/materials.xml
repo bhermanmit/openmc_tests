@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<materials>
+
+<!-- Definition of materials -->
+  <material uid="40">
+    <density value="4.5" units="g/cc" />
+    <nuclide name="U-235" xs="03c" ao="0.5" />
+    <nuclide name="Pu-239" xs="03c" ao="0.5" />
+  </material>
+
+</materials>

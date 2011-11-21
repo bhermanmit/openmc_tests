@@ -1,0 +1,47 @@
+
+ ============================>     TALLY 1     <============================
+
+ Cell 1
+   Incoming Energy [0.0, 6.25000E-07)
+     Flux                        4.11156E-05    +/- 2.44687E-06
+     Total Reaction Rate         1.50750E-04    +/- 6.67073E-06
+   Incoming Energy [6.25000E-07, 0.500000)
+     Flux                        20.0724        +/- 1.36935E-02
+     Total Reaction Rate         3.57270        +/- 2.52852E-03
+   Incoming Energy [0.500000, 20.0000)
+     Flux                        28.8335        +/- 1.27521E-02
+     Total Reaction Rate         2.78363        +/- 1.23627E-03
+
+ ============================>     TALLY 2     <============================
+
+ Cell 1
+   Incoming Energy [0.0, 6.25000E-07)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  7.75000E-06    +/- 1.51240E-06
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             3.33468E-05    +/- 4.46255E-06
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             2.42343E-04    +/- 1.34582E-05
+   Incoming Energy [6.25000E-07, 0.500000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  1.42250E-04    +/- 6.10122E-06
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  3.04607        +/- 2.38534E-03
+       Nu-Fission Rate             0.131499       +/- 2.75298E-04
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  0.0            +/- 0.0
+       Nu-Fission Rate             0.932574       +/- 6.31161E-04
+   Incoming Energy [0.500000, 20.0000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  7.50000E-07    +/- 4.31386E-07
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 0.500000)
+       Scattering Production Rate  0.404572       +/- 2.40888E-04
+       Nu-Fission Rate             0.159076       +/- 2.98955E-04
+     Outgoing Energy [0.500000, 20.0000)
+       Scattering Production Rate  1.90569        +/- 1.17527E-03
+       Nu-Fission Rate             1.15780        +/- 7.34876E-04

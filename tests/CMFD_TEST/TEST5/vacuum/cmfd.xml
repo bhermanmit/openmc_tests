@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<cmfd>
+
+  <mesh>
+    <origin> -25 -10 -10 </origin>
+    <dimension> 50 1 1 </dimension>
+    <width> 1.0 20.0 20.0 </width>
+    <albedo> 0.0 0.0 1.0 1.0 1.0 1.0 </albedo>
+  </mesh>
+
+</cmfd>

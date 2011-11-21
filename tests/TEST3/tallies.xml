@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<tallies>
+
+  <tally id="1">
+    <filters>
+      <mesh>1</mesh>
+    </filters>
+    <macros>total scatter nu-scatter absorption fission nu-fission</macros>
+  </tally>
+
+  <tally id="2">
+    <filters>
+      <mesh>1</mesh>
+    </filters>
+    <macros>current</macros>
+  </tally>
+
+  <mesh id="1">
+    <type> rectangular </type>
+    <origin> -25 -10 -10 </origin>
+    <dimension> 5 1 1 </dimension>
+    <width> 10.0 20.0 20.0 </width>
+
+  </mesh>
+
+
+</tallies>

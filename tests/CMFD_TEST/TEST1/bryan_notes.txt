@@ -1,0 +1,15 @@
+    integer :: bins(TALLY_TYPES)
+
+type(TallyObject), pointer :: t
+type(StructuredMesh), pointer :: m
+
+  t => tallies(bryan)
+  m => meshes(t % mesh)
+
+ bins = 1
+ ijk = (/ 1, 2, 1 /)
+ bins(T_MESH) = mesh_indices_to_bin(m, ijk)
+ bins(T_ENERGYIN) = 1
+ score_index = sum((bins - 1) * t % stride) + 1
+
+ value_of_tally  = t % scores(score_index, 1)

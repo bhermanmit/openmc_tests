@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<tallies>
+
+  <tally id="1">
+    <filters>
+      <cell>1</cell>
+      <energy>0.0 0.625e-6 500e-3 20.0</energy>
+    </filters>
+    <macros>flux total</macros>
+  </tally>
+
+  <tally id="2">
+    <filters>
+      <cell>1</cell>
+      <energy>0.0 0.625e-6 500e-3 20.0</energy>
+      <energyout>0.0 0.625e-6 500e-3 20.0</energy> 
+    </filters>
+    <macros>nu-scatter nu-fission</macros>
+  </tally>
+
+
+</tallies>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+
+  <!-- Path for cross section library -->
+  <xslibrary path="/opt/serpent/xsdata/sss_endfb7u.xsdata" />
+
+  <!-- Parameters for criticality calculation -->
+  <criticality>
+    <cycles>500</cycles>
+    <inactive>100</inactive>
+    <particles>10000</particles>
+  </criticality>
+
+  <!-- How verbose output should be -->
+  <verbosity value="7" />
+
+  <!-- Starting source -->
+  <source>
+    <type>box</type>
+    <coeffs>-10 -10 -10 10 10 10</coeffs>
+  </source>
+
+</settings>
