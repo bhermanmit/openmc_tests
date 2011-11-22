@@ -56,6 +56,10 @@ k_eff_cell = nfiss/( (curr_r - curr_l) + total - scatt )
 
 print k_eff_cell
 
+# calculate denominator
+den = (curr_r - curr_l) + total - scatt
+print den
+
 # print curr_l
 # print curr_r
 

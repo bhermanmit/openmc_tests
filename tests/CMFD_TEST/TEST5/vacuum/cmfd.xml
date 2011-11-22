@@ -2,9 +2,9 @@
 <cmfd>
 
   <mesh>
-    <origin> -25 -10 -10 </origin>
-    <dimension> 50 1 1 </dimension>
-    <width> 1.0 20.0 20.0 </width>
+    <origin> -10 -1 -1 </origin>
+    <dimension> 5 1 1 </dimension>
+    <width> 4.0 2.0 2.0 </width>
     <albedo> 0.0 0.0 1.0 1.0 1.0 1.0 </albedo>
   </mesh>
 
