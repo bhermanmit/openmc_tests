@@ -1,39 +1,30 @@
-""" This module extracts a line with a key word
+"""
+This module extracts a line with a key word
 """
 
-###############################################################################
+from uncertainties import unumpy
 
-def get_line(datafile,keyword,col):
+def get_udata(datafile, keyword):
 
-#	open file
-	filein = open(datafile)
-	lines = filein.read().splitlines()
+    # create list
+    mean = []
+    stdev = []
 
-#	create list
-	varlist = []
+    # begin looping
+    for line in open(datafile):
+                
+        # split line
+        words = line.split()
 
-# 	begin looping
-	i = 0
-	while i < len(lines):
+        # check to see if line has info
+        if len(words) < 1:
+            continue
 
-#		check to see if line has info
-		if len(lines[i].split()) < 1:
-			i += 1
-			continue
+        # look for keyword
+        if line.find(keyword) != -1: 
+            # keyword found bank col
+            mean.append(float(words[-3]))
+            stdev.append(float(words[-1]))
 
-#		split line
-		sline = lines[i].split()
-
-#		look for keyword
-		if lines[i].find(keyword) == -1: 
-			i += 1
-			continue
-
-#		keyword found bank col
-		varlist.append(float(sline[col]))
-
-#		increment line
-		i += 1
-
-#	return list
-	return varlist
+    # return list
+    return unumpy.uarray((mean,stdev))
