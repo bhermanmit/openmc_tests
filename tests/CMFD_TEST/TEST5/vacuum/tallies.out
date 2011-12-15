@@ -2,51 +2,51 @@
  ============================>     TALLY 1     <============================
 
  Mesh Index (1, 1, 1)
-   Flux                        3.43163        +/- 4.95268E-04
-   Total Reaction Rate         0.310068       +/- 4.53979E-05
-   First Scattering Moment     9.40384E-02    +/- 2.28295E-05
+   Flux                        3.43097        +/- 8.54134E-04
+   Total Reaction Rate         0.310016       +/- 7.81861E-05
+   First Scattering Moment     9.40230E-02    +/- 3.89088E-05
  Mesh Index (2, 1, 1)
-   Flux                        4.50412        +/- 5.67065E-04
-   Total Reaction Rate         0.408765       +/- 5.26053E-05
-   First Scattering Moment     0.122894       +/- 2.63240E-05
+   Flux                        4.50437        +/- 9.76125E-04
+   Total Reaction Rate         0.408789       +/- 9.03032E-05
+   First Scattering Moment     0.122925       +/- 4.51237E-05
  Mesh Index (3, 1, 1)
-   Flux                        4.84514        +/- 5.77669E-04
-   Total Reaction Rate         0.440170       +/- 5.38531E-05
-   First Scattering Moment     0.132074       +/- 2.69805E-05
+   Flux                        4.84691        +/- 1.01115E-03
+   Total Reaction Rate         0.440323       +/- 9.40974E-05
+   First Scattering Moment     0.132155       +/- 4.65623E-05
  Mesh Index (4, 1, 1)
-   Flux                        4.50249        +/- 5.66366E-04
-   Total Reaction Rate         0.408615       +/- 5.24506E-05
-   First Scattering Moment     0.122842       +/- 2.61412E-05
+   Flux                        4.50362        +/- 9.77822E-04
+   Total Reaction Rate         0.408725       +/- 9.04365E-05
+   First Scattering Moment     0.122984       +/- 4.50905E-05
  Mesh Index (5, 1, 1)
-   Flux                        3.42842        +/- 4.95410E-04
-   Total Reaction Rate         0.309767       +/- 4.54008E-05
-   First Scattering Moment     9.39580E-02    +/- 2.26940E-05
+   Flux                        3.42871        +/- 8.49763E-04
+   Total Reaction Rate         0.309773       +/- 7.81741E-05
+   First Scattering Moment     9.39491E-02    +/- 3.90418E-05
 
  ============================>     TALLY 2     <============================
 
  Mesh Index (1, 1, 1)
-   Scattering Production Rate  0.248900       +/- 4.10923E-05
-   Nu-Fission Rate             0.170002       +/- 2.46670E-05
+   Scattering Production Rate  0.248892       +/- 7.08689E-05
+   Nu-Fission Rate             0.169968       +/- 4.25196E-05
  Mesh Index (2, 1, 1)
-   Scattering Production Rate  0.328343       +/- 4.79704E-05
-   Nu-Fission Rate             0.222778       +/- 2.81425E-05
+   Scattering Production Rate  0.328376       +/- 8.24807E-05
+   Nu-Fission Rate             0.222790       +/- 4.83174E-05
  Mesh Index (3, 1, 1)
-   Scattering Production Rate  0.353638       +/- 4.95116E-05
-   Nu-Fission Rate             0.239555       +/- 2.86267E-05
+   Scattering Production Rate  0.353729       +/- 8.59510E-05
+   Nu-Fission Rate             0.239660       +/- 5.00164E-05
  Mesh Index (4, 1, 1)
-   Scattering Production Rate  0.328213       +/- 4.77739E-05
-   Nu-Fission Rate             0.222697       +/- 2.81315E-05
+   Scattering Production Rate  0.328380       +/- 8.25311E-05
+   Nu-Fission Rate             0.222759       +/- 4.86215E-05
  Mesh Index (5, 1, 1)
-   Scattering Production Rate  0.248656       +/- 4.11265E-05
-   Nu-Fission Rate             0.169842       +/- 2.46361E-05
+   Scattering Production Rate  0.248627       +/- 7.08869E-05
+   Nu-Fission Rate             0.169860       +/- 4.22978E-05
 
  ============================>     TALLY 3     <============================
 
  Mesh Index (1, 1, 1)
-     Outgoing Current to Left     0.315202       +/- 2.88818E-05
+     Outgoing Current to Left     0.315242       +/- 5.04472E-05
      Incoming Current from Left   0.0            +/- 0.0
-     Incoming Current from Right  0.326548       +/- 3.10350E-05
-     Outgoing Current to Right    0.116049       +/- 2.38385E-05
+     Incoming Current from Right  0.326652       +/- 5.41777E-05
+     Outgoing Current to Right    0.116031       +/- 4.16096E-05
      Outgoing Current to Back     0.0            +/- 0.0
      Incoming Current from Back   0.0            +/- 0.0
      Incoming Current from Front  0.0            +/- 0.0
@@ -56,10 +56,10 @@
      Incoming Current from Top    0.0            +/- 0.0
      Outgoing Current to Top      0.0            +/- 0.0
  Mesh Index (2, 1, 1)
-     Outgoing Current to Left     0.326548       +/- 3.10350E-05
-     Incoming Current from Left   0.116049       +/- 2.38385E-05
-     Incoming Current from Right  0.290411       +/- 3.20020E-05
-     Outgoing Current to Right    0.216890       +/- 3.02096E-05
+     Outgoing Current to Left     0.326652       +/- 5.41777E-05
+     Incoming Current from Left   0.116031       +/- 4.16096E-05
+     Incoming Current from Right  0.290544       +/- 5.46925E-05
+     Outgoing Current to Right    0.216898       +/- 5.23613E-05
      Outgoing Current to Back     0.0            +/- 0.0
      Incoming Current from Back   0.0            +/- 0.0
      Incoming Current from Front  0.0            +/- 0.0
@@ -69,10 +69,10 @@
      Incoming Current from Top    0.0            +/- 0.0
      Outgoing Current to Top      0.0            +/- 0.0
  Mesh Index (3, 1, 1)
-     Outgoing Current to Left     0.290411       +/- 3.20020E-05
-     Incoming Current from Left   0.216890       +/- 3.02096E-05
-     Incoming Current from Right  0.216774       +/- 3.03778E-05
-     Outgoing Current to Right    0.290422       +/- 3.19707E-05
+     Outgoing Current to Left     0.290544       +/- 5.46925E-05
+     Incoming Current from Left   0.216898       +/- 5.23613E-05
+     Incoming Current from Right  0.216882       +/- 5.27123E-05
+     Outgoing Current to Right    0.290558       +/- 5.54378E-05
      Outgoing Current to Back     0.0            +/- 0.0
      Incoming Current from Back   0.0            +/- 0.0
      Incoming Current from Front  0.0            +/- 0.0
@@ -82,10 +82,10 @@
      Incoming Current from Top    0.0            +/- 0.0
      Outgoing Current to Top      0.0            +/- 0.0
  Mesh Index (4, 1, 1)
-     Outgoing Current to Left     0.216774       +/- 3.03778E-05
-     Incoming Current from Left   0.290422       +/- 3.19707E-05
-     Incoming Current from Right  0.115912       +/- 2.40058E-05
-     Outgoing Current to Right    0.326490       +/- 3.11967E-05
+     Outgoing Current to Left     0.216882       +/- 5.27123E-05
+     Incoming Current from Left   0.290558       +/- 5.54378E-05
+     Incoming Current from Right  0.116024       +/- 4.12994E-05
+     Outgoing Current to Right    0.326508       +/- 5.45007E-05
      Outgoing Current to Back     0.0            +/- 0.0
      Incoming Current from Back   0.0            +/- 0.0
      Incoming Current from Front  0.0            +/- 0.0
@@ -95,10 +95,10 @@
      Incoming Current from Top    0.0            +/- 0.0
      Outgoing Current to Top      0.0            +/- 0.0
  Mesh Index (5, 1, 1)
-     Outgoing Current to Left     0.115912       +/- 2.40058E-05
-     Incoming Current from Left   0.326490       +/- 3.11967E-05
+     Outgoing Current to Left     0.116024       +/- 4.12994E-05
+     Incoming Current from Left   0.326508       +/- 5.45007E-05
      Incoming Current from Right  0.0            +/- 0.0
-     Outgoing Current to Right    0.315164       +/- 2.88338E-05
+     Outgoing Current to Right    0.315135       +/- 5.05439E-05
      Outgoing Current to Back     0.0            +/- 0.0
      Incoming Current from Back   0.0            +/- 0.0
      Incoming Current from Front  0.0            +/- 0.0

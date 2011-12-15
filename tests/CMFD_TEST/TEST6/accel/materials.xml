@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<materials>
+
+<!-- Definition of materials -->
+  <material id="1">
+    <density value="4.5" units="g/cc" />
+    <nuclide name="U-235" xs="03c" ao="0.5" />
+    <nuclide name="Pu-239" xs="03c" ao="0.5" />
+  </material>
+
+  <material id="2">
+    <density value="0.7" units="g/cc" />
+    <nuclide name="H-1" xs="03c" ao="2.0"/>
+    <nuclide name="O-16" xs="03c" ao="1.0" />
+  </material>
+
+</materials>

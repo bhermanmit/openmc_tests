@@ -8,8 +8,8 @@
 
   <!-- Parameters for criticality calculation -->
   <criticality>
-    <cycles>11000</cycles>
-    <inactive>1000</inactive>
+    <cycles>5000</cycles>
+    <inactive>100</inactive>
     <particles>10000</particles>
   </criticality>
 
@@ -19,7 +19,7 @@
   <!-- Starting source -->
   <source>
     <type>box</type>
-    <coeffs>-10 -1 -1 10 1 1</coeffs>
+    <coeffs>-15 -1 -1 15 1 1</coeffs>
   </source>
 
 </settings>

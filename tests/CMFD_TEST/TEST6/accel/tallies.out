@@ -1,0 +1,609 @@
+
+ ============================>     TALLY 1     <============================
+
+ Mesh Index (1, 1, 1)
+   Flux                        0.497201       +/- 2.66476E-04
+   Total Reaction Rate         0.330663       +/- 1.99609E-04
+   First Scattering Moment     1.42949E-03    +/- 4.71312E-05
+ Mesh Index (2, 1, 1)
+   Flux                        0.673049       +/- 3.39620E-04
+   Total Reaction Rate         0.469909       +/- 2.89060E-04
+   First Scattering Moment     1.99332E-03    +/- 5.56199E-05
+ Mesh Index (3, 1, 1)
+   Flux                        0.811090       +/- 3.86685E-04
+   Total Reaction Rate         0.551231       +/- 3.25851E-04
+   First Scattering Moment     2.29532E-03    +/- 6.26607E-05
+ Mesh Index (4, 1, 1)
+   Flux                        0.924418       +/- 3.99997E-04
+   Total Reaction Rate         0.577895       +/- 3.11753E-04
+   First Scattering Moment     3.01092E-03    +/- 6.29982E-05
+ Mesh Index (5, 1, 1)
+   Flux                        1.03430        +/- 4.25437E-04
+   Total Reaction Rate         0.543003       +/- 2.62116E-04
+   First Scattering Moment     4.24293E-03    +/- 6.20787E-05
+ Mesh Index (6, 1, 1)
+   Flux                        1.09529        +/- 5.70321E-04
+   Total Reaction Rate         0.145926       +/- 6.78140E-05
+   First Scattering Moment     2.62489E-02    +/- 2.99591E-05
+ Mesh Index (7, 1, 1)
+   Flux                        1.11233        +/- 5.77577E-04
+   Total Reaction Rate         0.115215       +/- 5.86326E-05
+   First Scattering Moment     2.75898E-02    +/- 3.00488E-05
+ Mesh Index (8, 1, 1)
+   Flux                        1.14157        +/- 5.84315E-04
+   Total Reaction Rate         0.114105       +/- 5.80712E-05
+   First Scattering Moment     2.88339E-02    +/- 3.04103E-05
+ Mesh Index (9, 1, 1)
+   Flux                        1.17022        +/- 5.89089E-04
+   Total Reaction Rate         0.114767       +/- 5.74127E-05
+   First Scattering Moment     2.98460E-02    +/- 3.02670E-05
+ Mesh Index (10, 1, 1)
+   Flux                        1.19556        +/- 6.03835E-04
+   Total Reaction Rate         0.115895       +/- 5.84042E-05
+   First Scattering Moment     3.07821E-02    +/- 3.11822E-05
+ Mesh Index (11, 1, 1)
+   Flux                        1.21654        +/- 6.05069E-04
+   Total Reaction Rate         0.116987       +/- 5.79313E-05
+   First Scattering Moment     3.14932E-02    +/- 3.16659E-05
+ Mesh Index (12, 1, 1)
+   Flux                        1.23578        +/- 6.06054E-04
+   Total Reaction Rate         0.118214       +/- 5.80590E-05
+   First Scattering Moment     3.20674E-02    +/- 3.15686E-05
+ Mesh Index (13, 1, 1)
+   Flux                        1.25008        +/- 6.05987E-04
+   Total Reaction Rate         0.119160       +/- 5.80929E-05
+   First Scattering Moment     3.25608E-02    +/- 3.10483E-05
+ Mesh Index (14, 1, 1)
+   Flux                        1.25928        +/- 6.14333E-04
+   Total Reaction Rate         0.119798       +/- 5.86554E-05
+   First Scattering Moment     3.28140E-02    +/- 3.15119E-05
+ Mesh Index (15, 1, 1)
+   Flux                        1.26426        +/- 6.15950E-04
+   Total Reaction Rate         0.120150       +/- 5.87550E-05
+   First Scattering Moment     3.29803E-02    +/- 3.14128E-05
+ Mesh Index (16, 1, 1)
+   Flux                        1.26426        +/- 6.18084E-04
+   Total Reaction Rate         0.120137       +/- 5.88303E-05
+   First Scattering Moment     3.29766E-02    +/- 3.16643E-05
+ Mesh Index (17, 1, 1)
+   Flux                        1.25829        +/- 6.11003E-04
+   Total Reaction Rate         0.119702       +/- 5.82404E-05
+   First Scattering Moment     3.28111E-02    +/- 3.17529E-05
+ Mesh Index (18, 1, 1)
+   Flux                        1.25023        +/- 6.16302E-04
+   Total Reaction Rate         0.119161       +/- 5.86307E-05
+   First Scattering Moment     3.25371E-02    +/- 3.11231E-05
+ Mesh Index (19, 1, 1)
+   Flux                        1.23670        +/- 6.14865E-04
+   Total Reaction Rate         0.118287       +/- 5.86570E-05
+   First Scattering Moment     3.20947E-02    +/- 3.14561E-05
+ Mesh Index (20, 1, 1)
+   Flux                        1.21738        +/- 6.06195E-04
+   Total Reaction Rate         0.117072       +/- 5.82807E-05
+   First Scattering Moment     3.14799E-02    +/- 3.12018E-05
+ Mesh Index (21, 1, 1)
+   Flux                        1.19546        +/- 6.00018E-04
+   Total Reaction Rate         0.115883       +/- 5.80281E-05
+   First Scattering Moment     3.07662E-02    +/- 3.06876E-05
+ Mesh Index (22, 1, 1)
+   Flux                        1.17087        +/- 5.91834E-04
+   Total Reaction Rate         0.114798       +/- 5.73255E-05
+   First Scattering Moment     2.99096E-02    +/- 3.08702E-05
+ Mesh Index (23, 1, 1)
+   Flux                        1.13997        +/- 5.86897E-04
+   Total Reaction Rate         0.113975       +/- 5.84737E-05
+   First Scattering Moment     2.87651E-02    +/- 2.97587E-05
+ Mesh Index (24, 1, 1)
+   Flux                        1.11208        +/- 5.79160E-04
+   Total Reaction Rate         0.115221       +/- 5.90321E-05
+   First Scattering Moment     2.75994E-02    +/- 2.97893E-05
+ Mesh Index (25, 1, 1)
+   Flux                        1.09539        +/- 5.70237E-04
+   Total Reaction Rate         0.145925       +/- 6.65220E-05
+   First Scattering Moment     2.62102E-02    +/- 3.01184E-05
+ Mesh Index (26, 1, 1)
+   Flux                        1.03340        +/- 4.20435E-04
+   Total Reaction Rate         0.542738       +/- 2.61756E-04
+   First Scattering Moment     4.22304E-03    +/- 6.02659E-05
+ Mesh Index (27, 1, 1)
+   Flux                        0.924210       +/- 4.09044E-04
+   Total Reaction Rate         0.577839       +/- 3.15425E-04
+   First Scattering Moment     2.95944E-03    +/- 6.39956E-05
+ Mesh Index (28, 1, 1)
+   Flux                        0.810880       +/- 3.73819E-04
+   Total Reaction Rate         0.551121       +/- 3.14018E-04
+   First Scattering Moment     2.46461E-03    +/- 6.08730E-05
+ Mesh Index (29, 1, 1)
+   Flux                        0.672821       +/- 3.36765E-04
+   Total Reaction Rate         0.469801       +/- 2.81295E-04
+   First Scattering Moment     1.93412E-03    +/- 5.69942E-05
+ Mesh Index (30, 1, 1)
+   Flux                        0.497148       +/- 2.62655E-04
+   Total Reaction Rate         0.330483       +/- 1.99143E-04
+   First Scattering Moment     1.50567E-03    +/- 4.80187E-05
+
+ ============================>     TALLY 2     <============================
+
+ Mesh Index (1, 1, 1)
+   Scattering Production Rate  0.330108       +/- 1.99352E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (2, 1, 1)
+   Scattering Production Rate  0.469062       +/- 2.88545E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (3, 1, 1)
+   Scattering Production Rate  0.550285       +/- 3.25270E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (4, 1, 1)
+   Scattering Production Rate  0.577015       +/- 3.11316E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (5, 1, 1)
+   Scattering Production Rate  0.542367       +/- 2.61876E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (6, 1, 1)
+   Scattering Production Rate  8.93265E-02    +/- 5.28204E-05
+   Nu-Fission Rate             0.118215       +/- 6.06363E-05
+ Mesh Index (7, 1, 1)
+   Scattering Production Rate  8.83244E-02    +/- 5.15875E-05
+   Nu-Fission Rate             6.53724E-02    +/- 3.54253E-05
+ Mesh Index (8, 1, 1)
+   Scattering Production Rate  8.94017E-02    +/- 5.13433E-05
+   Nu-Fission Rate             6.22659E-02    +/- 3.25743E-05
+ Mesh Index (9, 1, 1)
+   Scattering Production Rate  9.08355E-02    +/- 5.14691E-05
+   Nu-Fission Rate             6.15779E-02    +/- 3.14132E-05
+ Mesh Index (10, 1, 1)
+   Scattering Production Rate  9.22818E-02    +/- 5.27912E-05
+   Nu-Fission Rate             6.16581E-02    +/- 3.14937E-05
+ Mesh Index (11, 1, 1)
+   Scattering Production Rate  9.34550E-02    +/- 5.17503E-05
+   Nu-Fission Rate             6.19485E-02    +/- 3.11550E-05
+ Mesh Index (12, 1, 1)
+   Scattering Production Rate  9.46506E-02    +/- 5.25370E-05
+   Nu-Fission Rate             6.24367E-02    +/- 3.12418E-05
+ Mesh Index (13, 1, 1)
+   Scattering Production Rate  9.55262E-02    +/- 5.25675E-05
+   Nu-Fission Rate             6.28388E-02    +/- 3.09702E-05
+ Mesh Index (14, 1, 1)
+   Scattering Production Rate  9.61241E-02    +/- 5.32795E-05
+   Nu-Fission Rate             6.31245E-02    +/- 3.10852E-05
+ Mesh Index (15, 1, 1)
+   Scattering Production Rate  9.64280E-02    +/- 5.29406E-05
+   Nu-Fission Rate             6.32946E-02    +/- 3.12180E-05
+ Mesh Index (16, 1, 1)
+   Scattering Production Rate  9.63949E-02    +/- 5.29832E-05
+   Nu-Fission Rate             6.32866E-02    +/- 3.13428E-05
+ Mesh Index (17, 1, 1)
+   Scattering Production Rate  9.60086E-02    +/- 5.28586E-05
+   Nu-Fission Rate             6.30744E-02    +/- 3.08796E-05
+ Mesh Index (18, 1, 1)
+   Scattering Production Rate  9.54941E-02    +/- 5.32166E-05
+   Nu-Fission Rate             6.28480E-02    +/- 3.13797E-05
+ Mesh Index (19, 1, 1)
+   Scattering Production Rate  9.46724E-02    +/- 5.29710E-05
+   Nu-Fission Rate             6.24929E-02    +/- 3.14834E-05
+ Mesh Index (20, 1, 1)
+   Scattering Production Rate  9.34975E-02    +/- 5.21081E-05
+   Nu-Fission Rate             6.19999E-02    +/- 3.13746E-05
+ Mesh Index (21, 1, 1)
+   Scattering Production Rate  9.22681E-02    +/- 5.26151E-05
+   Nu-Fission Rate             6.16463E-02    +/- 3.14879E-05
+ Mesh Index (22, 1, 1)
+   Scattering Production Rate  9.08968E-02    +/- 5.17888E-05
+   Nu-Fission Rate             6.15903E-02    +/- 3.15281E-05
+ Mesh Index (23, 1, 1)
+   Scattering Production Rate  8.92874E-02    +/- 5.26635E-05
+   Nu-Fission Rate             6.21839E-02    +/- 3.28571E-05
+ Mesh Index (24, 1, 1)
+   Scattering Production Rate  8.83320E-02    +/- 5.16616E-05
+   Nu-Fission Rate             6.53760E-02    +/- 3.55340E-05
+ Mesh Index (25, 1, 1)
+   Scattering Production Rate  8.93339E-02    +/- 5.22515E-05
+   Nu-Fission Rate             0.118198       +/- 5.86101E-05
+ Mesh Index (26, 1, 1)
+   Scattering Production Rate  0.542099       +/- 2.61438E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (27, 1, 1)
+   Scattering Production Rate  0.576951       +/- 3.14939E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (28, 1, 1)
+   Scattering Production Rate  0.550169       +/- 3.13389E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (29, 1, 1)
+   Scattering Production Rate  0.468962       +/- 2.80955E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+ Mesh Index (30, 1, 1)
+   Scattering Production Rate  0.329929       +/- 1.98822E-04
+   Nu-Fission Rate             0.0            +/- 0.0
+
+ ============================>     TALLY 3     <============================
+
+ Mesh Index (1, 1, 1)
+     Outgoing Current to Left     0.222214       +/- 6.01796E-05
+     Incoming Current from Left   0.0            +/- 0.0
+     Incoming Current from Right  0.268744       +/- 7.70514E-05
+     Outgoing Current to Right    4.59755E-02    +/- 3.87476E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (2, 1, 1)
+     Outgoing Current to Left     0.268744       +/- 7.70514E-05
+     Incoming Current from Left   4.59755E-02    +/- 3.87476E-05
+     Incoming Current from Right  0.305831       +/- 8.74838E-05
+     Outgoing Current to Right    8.22151E-02    +/- 5.54636E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (3, 1, 1)
+     Outgoing Current to Left     0.305831       +/- 8.74838E-05
+     Incoming Current from Left   8.22151E-02    +/- 5.54636E-05
+     Incoming Current from Right  0.335047       +/- 9.13478E-05
+     Outgoing Current to Right    0.110485       +/- 6.35021E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (4, 1, 1)
+     Outgoing Current to Left     0.335047       +/- 9.13478E-05
+     Incoming Current from Left   0.110485       +/- 6.35021E-05
+     Incoming Current from Right  0.356113       +/- 8.98517E-05
+     Outgoing Current to Right    0.130671       +/- 6.43996E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (5, 1, 1)
+     Outgoing Current to Left     0.356113       +/- 8.98517E-05
+     Incoming Current from Left   0.130671       +/- 6.43996E-05
+     Incoming Current from Right  0.368578       +/- 8.25227E-05
+     Outgoing Current to Right    0.142500       +/- 5.89349E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (6, 1, 1)
+     Outgoing Current to Left     0.368578       +/- 8.25227E-05
+     Incoming Current from Left   0.142500       +/- 5.89349E-05
+     Incoming Current from Right  0.345396       +/- 8.00858E-05
+     Outgoing Current to Right    0.149309       +/- 6.28813E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (7, 1, 1)
+     Outgoing Current to Left     0.345396       +/- 8.00858E-05
+     Incoming Current from Left   0.149309       +/- 6.28813E-05
+     Incoming Current from Right  0.340599       +/- 7.89244E-05
+     Outgoing Current to Right    0.165438       +/- 6.61807E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (8, 1, 1)
+     Outgoing Current to Left     0.340599       +/- 7.89244E-05
+     Incoming Current from Left   0.165438       +/- 6.61807E-05
+     Incoming Current from Right  0.336156       +/- 7.86522E-05
+     Outgoing Current to Right    0.181907       +/- 6.84696E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (9, 1, 1)
+     Outgoing Current to Left     0.336156       +/- 7.86522E-05
+     Incoming Current from Left   0.181907       +/- 6.84696E-05
+     Incoming Current from Right  0.331291       +/- 7.88026E-05
+     Outgoing Current to Right    0.198222       +/- 7.16800E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (10, 1, 1)
+     Outgoing Current to Left     0.331291       +/- 7.88026E-05
+     Incoming Current from Left   0.198222       +/- 7.16800E-05
+     Incoming Current from Right  0.325570       +/- 7.96108E-05
+     Outgoing Current to Right    0.214013       +/- 7.32657E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (11, 1, 1)
+     Outgoing Current to Left     0.325570       +/- 7.96108E-05
+     Incoming Current from Left   0.214013       +/- 7.32657E-05
+     Incoming Current from Right  0.318896       +/- 7.95626E-05
+     Outgoing Current to Right    0.229188       +/- 7.46644E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (12, 1, 1)
+     Outgoing Current to Left     0.318896       +/- 7.95626E-05
+     Incoming Current from Left   0.229188       +/- 7.46644E-05
+     Incoming Current from Right  0.311252       +/- 7.91730E-05
+     Outgoing Current to Right    0.243684       +/- 7.56641E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (13, 1, 1)
+     Outgoing Current to Left     0.311252       +/- 7.91730E-05
+     Incoming Current from Left   0.243684       +/- 7.56641E-05
+     Incoming Current from Right  0.302545       +/- 8.01285E-05
+     Outgoing Current to Right    0.257332       +/- 7.66107E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (14, 1, 1)
+     Outgoing Current to Left     0.302545       +/- 8.01285E-05
+     Incoming Current from Left   0.257332       +/- 7.66107E-05
+     Incoming Current from Right  0.292794       +/- 7.86130E-05
+     Outgoing Current to Right    0.270101       +/- 7.73820E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (15, 1, 1)
+     Outgoing Current to Left     0.292794       +/- 7.86130E-05
+     Incoming Current from Left   0.270101       +/- 7.73820E-05
+     Incoming Current from Right  0.281978       +/- 7.79218E-05
+     Outgoing Current to Right    0.281894       +/- 7.77092E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (16, 1, 1)
+     Outgoing Current to Left     0.281978       +/- 7.79218E-05
+     Incoming Current from Left   0.281894       +/- 7.77092E-05
+     Incoming Current from Right  0.270146       +/- 7.76297E-05
+     Outgoing Current to Right    0.292706       +/- 7.97356E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (17, 1, 1)
+     Outgoing Current to Left     0.270146       +/- 7.76297E-05
+     Incoming Current from Left   0.292706       +/- 7.97356E-05
+     Incoming Current from Right  0.257383       +/- 7.79446E-05
+     Outgoing Current to Right    0.302486       +/- 7.97348E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (18, 1, 1)
+     Outgoing Current to Left     0.257383       +/- 7.79446E-05
+     Incoming Current from Left   0.302486       +/- 7.97348E-05
+     Incoming Current from Right  0.243723       +/- 7.62825E-05
+     Outgoing Current to Right    0.311229       +/- 8.06104E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (19, 1, 1)
+     Outgoing Current to Left     0.243723       +/- 7.62825E-05
+     Incoming Current from Left   0.311229       +/- 8.06104E-05
+     Incoming Current from Right  0.229207       +/- 7.52830E-05
+     Outgoing Current to Right    0.318874       +/- 7.92216E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (20, 1, 1)
+     Outgoing Current to Left     0.229207       +/- 7.52830E-05
+     Incoming Current from Left   0.318874       +/- 7.92216E-05
+     Incoming Current from Right  0.214060       +/- 7.36437E-05
+     Outgoing Current to Right    0.325597       +/- 7.89445E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (21, 1, 1)
+     Outgoing Current to Left     0.214060       +/- 7.36437E-05
+     Incoming Current from Left   0.325597       +/- 7.89445E-05
+     Incoming Current from Right  0.198210       +/- 7.14234E-05
+     Outgoing Current to Right    0.331248       +/- 7.90064E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (22, 1, 1)
+     Outgoing Current to Left     0.198210       +/- 7.14234E-05
+     Incoming Current from Left   0.331248       +/- 7.90064E-05
+     Incoming Current from Right  0.181880       +/- 6.85591E-05
+     Outgoing Current to Right    0.336108       +/- 7.91019E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (23, 1, 1)
+     Outgoing Current to Left     0.181880       +/- 6.85591E-05
+     Incoming Current from Left   0.336108       +/- 7.91019E-05
+     Incoming Current from Right  0.165437       +/- 6.57114E-05
+     Outgoing Current to Right    0.340553       +/- 7.94315E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (24, 1, 1)
+     Outgoing Current to Left     0.165437       +/- 6.57114E-05
+     Incoming Current from Left   0.340553       +/- 7.94315E-05
+     Incoming Current from Right  0.149345       +/- 6.25295E-05
+     Outgoing Current to Right    0.345385       +/- 7.97402E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (25, 1, 1)
+     Outgoing Current to Left     0.149345       +/- 6.25295E-05
+     Incoming Current from Left   0.345385       +/- 7.97402E-05
+     Incoming Current from Right  0.142409       +/- 5.85776E-05
+     Outgoing Current to Right    0.368491       +/- 8.26758E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (26, 1, 1)
+     Outgoing Current to Left     0.142409       +/- 5.85776E-05
+     Incoming Current from Left   0.368491       +/- 8.26758E-05
+     Incoming Current from Right  0.130556       +/- 6.36083E-05
+     Outgoing Current to Right    0.356000       +/- 8.90956E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (27, 1, 1)
+     Outgoing Current to Left     0.130556       +/- 6.36083E-05
+     Incoming Current from Left   0.356000       +/- 8.90956E-05
+     Incoming Current from Right  0.110429       +/- 6.24787E-05
+     Outgoing Current to Right    0.334984       +/- 9.04489E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (28, 1, 1)
+     Outgoing Current to Left     0.110429       +/- 6.24787E-05
+     Incoming Current from Left   0.334984       +/- 9.04489E-05
+     Incoming Current from Right  8.21791E-02    +/- 5.43047E-05
+     Outgoing Current to Right    0.305782       +/- 8.66396E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (29, 1, 1)
+     Outgoing Current to Left     8.21791E-02    +/- 5.43047E-05
+     Incoming Current from Left   0.305782       +/- 8.66396E-05
+     Incoming Current from Right  4.59468E-02    +/- 3.84444E-05
+     Outgoing Current to Right    0.268711       +/- 7.70480E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+ Mesh Index (30, 1, 1)
+     Outgoing Current to Left     4.59468E-02    +/- 3.84444E-05
+     Incoming Current from Left   0.268711       +/- 7.70480E-05
+     Incoming Current from Right  0.0            +/- 0.0
+     Outgoing Current to Right    0.222210       +/- 6.16258E-05
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
