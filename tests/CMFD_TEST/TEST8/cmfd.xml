@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<cmfd>
+
+  <mesh>
+    <origin> -15 -1 -1 </origin>
+    <dimension> 30 1 1 </dimension>
+    <width> 1.0 2.0 2.0 </width>
+    <albedo> 0.0 0.0 1.0 1.0 1.0 1.0 </albedo>
+<!--    <map> 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 </map> -->
+
+    <map> 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 </map>
+  </mesh>
+
+</cmfd>

@@ -1,0 +1,60 @@
+
+ ============================>     TALLY 1     <============================
+
+ Mesh Index (1, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Flux                        7.51339E-05    +/- 2.12623E-06
+     Total Reaction Rate         2.67400E-04    +/- 5.67955E-06
+     First Scattering Moment     1.17312E-06    +/- 7.97329E-07
+   Incoming Energy [6.25000E-07, 20.0000)
+     Flux                        46.9486        +/- 1.08776E-02
+     Total Reaction Rate         6.58310        +/- 1.81096E-03
+     First Scattering Moment     1.07504        +/- 5.80555E-04
+
+ ============================>     TALLY 2     <============================
+
+ Mesh Index (1, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  1.86000E-05    +/- 1.55372E-06
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 20.0000)
+       Scattering Production Rate  1.20000E-06    +/- 3.44325E-07
+       Nu-Fission Rate             4.65878E-04    +/- 1.15468E-05
+   Incoming Energy [6.25000E-07, 20.0000)
+     Outgoing Energy [0.0, 6.25000E-07)
+       Scattering Production Rate  2.48800E-04    +/- 4.97178E-06
+       Nu-Fission Rate             0.0            +/- 0.0
+     Outgoing Energy [6.25000E-07, 20.0000)
+       Scattering Production Rate  5.58309        +/- 1.81096E-03
+       Nu-Fission Rate             2.31283        +/- 3.92847E-04
+
+ ============================>     TALLY 3     <============================
+
+ Mesh Index (1, 1, 1)
+   Incoming Energy [0.0, 6.25000E-07)
+     Outgoing Current to Left     0.0            +/- 0.0
+     Incoming Current from Left   0.0            +/- 0.0
+     Incoming Current from Right  0.0            +/- 0.0
+     Outgoing Current to Right    0.0            +/- 0.0
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
+   Incoming Energy [6.25000E-07, 20.0000)
+     Outgoing Current to Left     0.0            +/- 0.0
+     Incoming Current from Left   0.0            +/- 0.0
+     Incoming Current from Right  0.0            +/- 0.0
+     Outgoing Current to Right    0.0            +/- 0.0
+     Outgoing Current to Back     0.0            +/- 0.0
+     Incoming Current from Back   0.0            +/- 0.0
+     Incoming Current from Front  0.0            +/- 0.0
+     Outgoing Current to Front    0.0            +/- 0.0
+     Outgoing Current to Bottom   0.0            +/- 0.0
+     Incoming Current from Bottom 0.0            +/- 0.0
+     Incoming Current from Top    0.0            +/- 0.0
+     Outgoing Current to Top      0.0            +/- 0.0
