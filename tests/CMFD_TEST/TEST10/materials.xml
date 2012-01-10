@@ -4,8 +4,7 @@
 <!-- Definition of materials -->
   <material id="1">
     <density value="4.5" units="g/cc" />
-    <nuclide name="U-235" xs="03c" ao="0.5" />
-    <nuclide name="Pu-239" xs="03c" ao="0.2" />
+    <nuclide name="U-235" xs="03c" ao="0.7" />
     <nuclide name="H-1" xs="03c" ao="0.3" />
   </material>
 

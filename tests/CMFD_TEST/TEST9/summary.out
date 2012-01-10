@@ -5,7 +5,7 @@
 
  Copyright:     2011 Massachusetts Institute of Technology
  Version:       0.4.0
- Date/Time:     1/9/2012 05:48:52
+ Date/Time:     1/10/2012 12:25:21
 
  =====================>     CROSS SECTION TABLES     <======================
 
@@ -158,3 +158,169 @@
    (n,d19)      -20.596     0    2342           0           0
    (n,t0)       -14.479     0    2190           0           0
    (n,t1)       -16.792     0    2249           0           0
+   (n,t2)       -18.427     0    2289           0           0
+   (n,t3)       -19.394     0    2313           0           0
+   (n,t4)       -19.585     0    2316           0           0
+   (n,t5)       -20.170     0    2331           0           0
+   (n,t6)       -20.313     0    2335           0           0
+   (n,t7)       -20.683     0    2344           0           0
+   (n,t8)       -20.925     0    2352           0           0
+   (n,t9)       -21.508     0    2357           0           0
+   (n,tc)       -21.508     0    2357           0           0
+   (n,a0)        -2.214     0     409           0           0
+   (n,a1)        -5.305     0    1242           0           0
+   (n,a2)        -5.900     0    1431           0           0
+   (n,a3)        -6.069     0    1529           0           0
+   Total memory used = 2675304 bytes
+
+
+ ========================>     PROBLEM SUMMARY     <========================
+
+ Problem type:                    Criticality
+ Number of Cycles:                        110
+ Number of Inactive Cycles:                10
+ Number of Particles:                   10000
+
+ =======================>     GEOMETRY SUMMARY     <========================
+
+ Number of Cells:                           3
+ Number of Surfaces:                        8
+ Number of Materials:                       2
+
+ ========================>     SURFACE SUMMARY     <========================
+
+ Surface 1          
+     Type = X Plane
+     Coefficients =  10.00
+     Positive Neighbors =  3
+     Negative Neighbors = 1
+     Boundary Condition = Transmission
+
+ Surface 2          
+     Type = X Plane
+     Coefficients =  -10.00
+     Positive Neighbors =  1
+     Negative Neighbors = 2
+     Boundary Condition = Transmission
+
+ Surface 3          
+     Type = Y Plane
+     Coefficients =  1.000
+     Positive Neighbors = 
+     Negative Neighbors = 1 2 3
+     Boundary Condition = Reflective
+
+ Surface 4          
+     Type = Y Plane
+     Coefficients =  -1.000
+     Positive Neighbors =  1 2 3
+     Negative Neighbors =
+     Boundary Condition = Reflective
+
+ Surface 5          
+     Type = Z Plane
+     Coefficients =  1.000
+     Positive Neighbors = 
+     Negative Neighbors = 1 2 3
+     Boundary Condition = Reflective
+
+ Surface 6          
+     Type = Z Plane
+     Coefficients =  -1.000
+     Positive Neighbors =  1 2 3
+     Negative Neighbors =
+     Boundary Condition = Reflective
+
+ Surface 7          
+     Type = X Plane
+     Coefficients =  15.00
+     Positive Neighbors = 
+     Negative Neighbors = 3
+     Boundary Condition = Vacuum
+
+ Surface 8          
+     Type = X Plane
+     Coefficients =  -15.00
+     Positive Neighbors =  2
+     Negative Neighbors =
+     Boundary Condition = Vacuum
+
+
+ =========================>     CELL SUMMARY     <==========================
+
+ Cell 1          
+     Array Index = 1          
+     Universe = 0          
+     Fill = NONE
+     Material = 1          
+     Parent Cell = 0          
+     Surface Specification: -1 2 -3 4 -5 6
+
+ Cell 2          
+     Array Index = 2          
+     Universe = 0          
+     Fill = NONE
+     Material = 2          
+     Parent Cell = 0          
+     Surface Specification: 8 -2 -3 4 -5 6
+
+ Cell 3          
+     Array Index = 3          
+     Universe = 0          
+     Fill = NONE
+     Material = 2          
+     Parent Cell = 0          
+     Surface Specification: -7 1 -3 4 -5 6
+
+
+ =======================>     UNIVERSE SUMMARY     <========================
+
+ Universe 0          
+     Level = 0          
+     Cells = 1 2 3
+
+
+ =======================>     MATERIAL SUMMARY     <========================
+
+ Material 1          
+     Atom Density = 1.62994E-02 atom/b-cm
+     Nuclides:
+          92235.12c = 1.14096E-02 atom/b-cm
+           1001.12c = 4.88983E-03 atom/b-cm
+
+ Material 2          
+     Atom Density = 6.96139E-02 atom/b-cm
+     Nuclides:
+           1001.12c = 4.64093E-02 atom/b-cm
+           8016.12c = 2.32046E-02 atom/b-cm
+
+
+ =========================>     TALLY SUMMARY     <=========================
+
+ Tally 1          
+     Mesh Bins: 30 x 1 x 1
+     Incoming Energy Bins: 0.0 1.00000 20.0000
+     Macro Reactions: flux total
+
+ Tally 2          
+     Mesh Bins: 30 x 1 x 1
+     Incoming Energy Bins: 0.0 1.00000 20.0000
+     Outgoing Energy Bins: 0.0 1.00000 20.0000
+     Macro Reactions: nu-fission
+
+ Tally 3          
+     Mesh Bins: 30 x 1 x 1
+     Incoming Energy Bins: 0.0 1.00000 20.0000
+     Macro Reactions:
+
+
+ =====================>     UNIONIZED ENERGY GRID     <=====================
+
+ Points on energy grid:  26988
+ Extra storage required: 323856 bytes
+
+ ======================>     VARIANCE REDUCTION     <=======================
+
+ Survival Biasing:                off
+ Weight Cutoff:                   0.250000
+ Survival weight:                 1.00000

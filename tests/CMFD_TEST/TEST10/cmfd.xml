@@ -2,11 +2,24 @@
 <cmfd>
 
   <mesh>
-    <origin> -15 -1 -1 </origin>
-    <dimension> 1 1 1 </dimension>
-    <width> 30.0 2.0 2.0 </width>
-    <albedo> 0.0 0.0 1.0 1.0 1.0 1.0 </albedo>
-    <energy> 0.0 0.625e-6 20.0 </energy> 
+    <origin> -10 -10 -1 </origin>
+    <dimension> 10 10 1 </dimension>
+    <width> 2.0 2.0 2.0 </width>
+    <albedo> 0.0 0.0 0.0 0.0 1.0 1.0 </albedo>
+<!--    <map> 
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+           2 2 2 2 2 2 2 2 2 2
+    </map>
+-->
+<!--    <energy>0.0 1.0 20.0</energy> -->
   </mesh>
 
 </cmfd>

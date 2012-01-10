@@ -7,6 +7,7 @@
     <width> 1.0 2.0 2.0 </width>
     <albedo> 0.0 0.0 1.0 1.0 1.0 1.0 </albedo>
     <map> 1 1 1 1 1 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 1 1 1 1 1 </map>
+    <energy> 0.0 1.0 20.0 </energy>
   </mesh>
 
 </cmfd>

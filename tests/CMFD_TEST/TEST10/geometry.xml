@@ -11,23 +11,23 @@
 <!-- Defition of Surfaces -->
   <surface id="1">
     <type>x-plane</type>
-    <coeffs>15</coeffs>
-    <boundary>reflective</boundary>
+    <coeffs>10</coeffs>
+    <boundary>vacuum</boundary>
   </surface>
   <surface id="2">
     <type>x-plane</type>
-    <coeffs>-15</coeffs>
-    <boundary>reflective</boundary>
+    <coeffs>-10</coeffs>
+    <boundary>vacuum</boundary>
   </surface>
   <surface id="3">
     <type>y-plane</type>
-    <coeffs>1</coeffs>
-    <boundary>reflective</boundary>
+    <coeffs>10</coeffs>
+    <boundary>vacuum</boundary>
   </surface>
   <surface id="4">
     <type>y-plane</type>
-    <coeffs>-1</coeffs>
-    <boundary>reflective</boundary>
+    <coeffs>-10</coeffs>
+    <boundary>vacuum</boundary>
   </surface>
   <surface id="5">
     <type>z-plane</type>
