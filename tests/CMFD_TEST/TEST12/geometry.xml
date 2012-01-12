@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<geometry>
+
+<!-- Definition of Cells -->
+  <cell id="1">
+    <universe>0</universe>
+    <surfaces>2 -9 4 -10 -5 6</surfaces>
+    <material>1</material>
+  </cell>
+  <cell id="2">
+    <universe>0</universe>
+    <surfaces>9 -1 4 -10 -5 6</surfaces>
+    <material>2</material>
+  </cell>
+  <cell id="3">
+    <universe>0</universe>
+    <surfaces>2 -8 10 -11 -5 6</surfaces>
+    <material>1</material>
+  </cell>
+  <cell id="4">
+    <universe>0</universe>
+    <surfaces>8 -1 10 -11 -5 6</surfaces>
+    <material>2</material>
+  </cell>
+  <cell id="5">
+    <universe>0</universe>
+    <surfaces>2 -7 11 -3 -5 6</surfaces>
+    <material>1</material>
+  </cell>
+  <cell id="6">
+    <universe>0</universe>
+    <surfaces>7 -1 11 -3 -5 6</surfaces>
+    <material>2</material>
+  </cell>
+
+<!-- Defition of Surfaces -->
+
+  <!-- Bounding surfaces -->
+  <surface id="1">
+    <type>x-plane</type>
+    <coeffs>10</coeffs>
+    <boundary>vacuum</boundary>
+  </surface>
+  <surface id="2">
+    <type>x-plane</type>
+    <coeffs>-10</coeffs>
+    <boundary>reflective</boundary>
+  </surface>
+  <surface id="3">
+    <type>y-plane</type>
+    <coeffs>10</coeffs>
+    <boundary>vacuum</boundary>
+  </surface>
+  <surface id="4">
+    <type>y-plane</type>
+    <coeffs>-10</coeffs>
+    <boundary>reflective</boundary>
+  </surface>
+  <surface id="5">
+    <type>z-plane</type>
+    <coeffs>1</coeffs>
+    <boundary>reflective</boundary>
+  </surface>
+  <surface id="6">
+    <type>z-plane</type>
+    <coeffs>-1</coeffs>
+    <boundary>reflective</boundary>
+  </surface>
+
+  <!-- Internal surfaces -->
+  <surface id="7">
+    <type>x-plane</type>
+    <coeffs>0</coeffs>
+  </surface>
+  <surface id="8">
+    <type>x-plane</type>
+    <coeffs>4</coeffs>
+  </surface>
+  <surface id="9">
+    <type>x-plane</type>
+    <coeffs>8</coeffs>
+  </surface>
+  <surface id="10">
+    <type>y-plane</type>
+    <coeffs>-6</coeffs>
+  </surface>
+  <surface id="11">
+    <type>y-plane</type>
+    <coeffs>2</coeffs>
+  </surface>
+   
+</geometry>

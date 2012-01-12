@@ -5,8 +5,8 @@
     <origin> -10 -10 -1 </origin>
     <dimension> 10 10 1 </dimension>
     <width> 2.0 2.0 2.0 </width>
-    <albedo> 0.0 0.0 0.0 0.0 1.0 1.0 </albedo>
-    <map> 
+    <albedo> 1.0 0.0 1.0 0.0 1.0 1.0 </albedo>
+<!--    <map> 
            2 2 2 2 2 2 2 2 2 2
            2 2 2 2 2 2 2 2 2 2
            2 2 2 2 2 2 2 2 2 2
@@ -17,8 +17,7 @@
            2 2 2 2 2 2 2 2 2 2
            2 2 2 2 2 2 2 2 2 2
            2 2 2 2 2 2 2 2 2 2
-    </map>
-    <energy>0.0 1.0 20.0</energy>
+    </map> -->
   </mesh>
 
 </cmfd>
