@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <plot>
 
-  <origin> -10.0 -10.0 -1.0 </origin>
-  <width> 20.0 20.0 2.0 </width>
+  <origin> 0.0 0.0 0.0 </origin>
+  <width> 20.0 20.0 </width>
   <basis>"xy"</basis>
   <pixel>0.01</pixel>
 

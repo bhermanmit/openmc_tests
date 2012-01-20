@@ -8,18 +8,15 @@
 
   <!-- Parameters for criticality calculation -->
   <criticality>
-    <cycles>300</cycles>
-    <inactive>100</inactive>
-    <particles>1000</particles>
+    <cycles>110</cycles>
+    <inactive>10</inactive>
+    <particles>10000</particles>
   </criticality>
-
-  <!-- How verbose output should be -->
-  <verbosity value="7" />
 
   <!-- Starting source -->
   <source>
     <type>box</type>
-    <coeffs>-10 -10 -10 10 10 10</coeffs>
+    <coeffs>-25 -10 -10 25 10 10</coeffs>
   </source>
 
 </settings>
